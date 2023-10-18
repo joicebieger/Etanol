@@ -1,0 +1,37 @@
+/* Estilizando o corpo da página */
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    background-color: #ac84da;
+    margin: 0;
+    padding: 0;
+  }
+  
+  /* Estilizando o título */
+  h2 {
+    color: #333;
+  }
+  
+  /* Estilizando os campos de entrada */
+  input[type="number"] {
+    margin: 10px;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    width: 200px;
+  }
+  
+  /* Estilizando o botão */
+  button {
+    background-color: #0074d9;
+    color: #fff;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  button:hover {
+    background-color: #0056b3;
+  }
+  
